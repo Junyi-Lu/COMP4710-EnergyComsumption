@@ -1,0 +1,163 @@
+antecedents,consequents,support,confidence
+['energy _very high'],['temp _very low'],0.04810324599139617,0.2887323943661972
+['temp _very low'],['energy _very high'],0.04810324599139617,0.2890716803760282
+['energy _extremely high'],['temp _very low'],0.08056315995307001,0.48356807511737093
+['temp _very low'],['energy _extremely high'],0.08056315995307001,0.48413631022326675
+['energy _high'],['temp _low'],0.04419241298396558,0.264947245017585
+['temp _low'],['energy _high'],0.04419241298396558,0.264947245017585
+['temp _neutral'],['energy _low'],0.04282362143136488,0.25704225352112675
+['energy _low'],['temp _neutral'],0.04282362143136488,0.2567409144196952
+['temp _high'],['energy _very low'],0.07371920219006649,0.4419695193434936
+['energy _very low'],['temp _high'],0.07371920219006649,0.44300822561692127
+['energy _low'],['temp _high'],0.043996871333594055,0.2637749120750293
+['temp _high'],['energy _low'],0.043996871333594055,0.2637749120750293
+['energy _low'],['temp _very high'],0.04810324599139617,0.28839390386869873
+['temp _very high'],['energy _low'],0.04810324599139617,0.2887323943661972
+['energy _very high'],['temp _extremely high'],0.044583496284708646,0.26760563380281693
+['temp _extremely high'],['energy _very high'],0.044583496284708646,0.26760563380281693
+['energy _extremely high'],['temp _extremely high'],0.05553382870551427,0.3333333333333333
+['temp _extremely high'],['energy _extremely high'],0.05553382870551427,0.3333333333333333
+['energy _extremely high'],['irradiance_toa _very low'],0.044779037935080174,0.2687793427230047
+['irradiance_toa _very low'],['energy _extremely high'],0.044779037935080174,0.2690951821386604
+['irradiance_toa _very high'],['energy _very low'],0.04380132968322253,0.26291079812206575
+['energy _very low'],['irradiance_toa _very high'],0.04380132968322253,0.26321974148061106
+['energy _extremely high'],['irradiance_surface _very low'],0.041650371529135706,0.25
+['irradiance_surface _very low'],['energy _extremely high'],0.041650371529135706,0.2502937720329025
+['irradiance_surface _extremely high'],['energy _very low'],0.04067266327727806,0.24413145539906103
+['energy _very low'],['irradiance_surface _extremely high'],0.04067266327727806,0.2444183313748531
+['precipitation _low'],['energy _very low'],0.08682049276495894,0.17364098552991789
+['energy _very low'],['precipitation _low'],0.08682049276495894,0.5217391304347826
+['precipitation _low'],['energy _low'],0.0725459522878373,0.1450919045756746
+['energy _low'],['precipitation _low'],0.0725459522878373,0.4349355216881594
+['precipitation _low'],['energy _neutral'],0.08330074305827141,0.16660148611654282
+['energy _neutral'],['precipitation _low'],0.08330074305827141,0.5
+['energy _high'],['precipitation _low'],0.08173640985529917,0.4900351699882767
+['precipitation _low'],['energy _high'],0.08173640985529917,0.16347281971059835
+['energy _very high'],['precipitation _low'],0.08623386781384434,0.5176056338028169
+['precipitation _low'],['energy _very high'],0.08623386781384434,0.1724677356276887
+['energy _extremely high'],['precipitation _low'],0.08936253421978882,0.5363849765258216
+['precipitation _low'],['energy _extremely high'],0.08936253421978882,0.17872506843957764
+['energy _extremely high'],['snowfall _very high'],0.04067266327727806,0.24413145539906103
+['snowfall _very high'],['energy _extremely high'],0.04067266327727806,0.24413145539906103
+['energy _very high'],['snowfall _extremely high'],0.04575674618693782,0.2746478873239437
+['snowfall _extremely high'],['energy _very high'],0.04575674618693782,0.2746478873239437
+['energy _extremely high'],['snowfall _extremely high'],0.0557293703558858,0.3345070422535211
+['snowfall _extremely high'],['energy _extremely high'],0.0557293703558858,0.3345070422535211
+['energy _very low'],['snow_depth _neutral'],0.06883066093077826,0.41363102232667454
+['snow_depth _neutral'],['energy _very low'],0.06883066093077826,0.4155844155844156
+['energy _low'],['snow_depth _neutral'],0.04047712162690653,0.24267291910902697
+['snow_depth _neutral'],['energy _low'],0.04047712162690653,0.24439197166469892
+['snow_depth _high'],['energy _low'],0.04047712162690653,0.24267291910902697
+['energy _low'],['snow_depth _high'],0.04047712162690653,0.24267291910902697
+['energy _extremely high'],['snow_depth _very high'],0.04086820492764959,0.24530516431924881
+['snow_depth _very high'],['energy _extremely high'],0.04086820492764959,0.24530516431924881
+['energy _very high'],['snow_depth _extremely high'],0.04301916308173641,0.25821596244131456
+['snow_depth _extremely high'],['energy _very high'],0.04301916308173641,0.25821596244131456
+['energy _extremely high'],['snow_depth _extremely high'],0.06452874462260462,0.38732394366197187
+['snow_depth _extremely high'],['energy _extremely high'],0.06452874462260462,0.38732394366197187
+['energy _very high'],['air_density _very low'],0.041063746578021115,0.2464788732394366
+['air_density _very low'],['energy _very high'],0.041063746578021115,0.24676850763807284
+['energy _extremely high'],['air_density _very low'],0.05475166210402816,0.3286384976525822
+['air_density _very low'],['energy _extremely high'],0.05475166210402816,0.3290246768507638
+['energy _low'],['air_density _low'],0.04810324599139617,0.28839390386869873
+['air_density _low'],['energy _low'],0.04810324599139617,0.2867132867132867
+['air_density _neutral'],['energy _very low'],0.06433320297223309,0.3875147232037692
+['energy _very low'],['air_density _neutral'],0.06433320297223309,0.3866039952996475
+['air_density _neutral'],['energy _low'],0.04732107938991005,0.28504122497055356
+['energy _low'],['air_density _neutral'],0.04732107938991005,0.283704572098476
+['air_density _high'],['energy _very low'],0.041063746578021115,0.24676850763807284
+['energy _very low'],['air_density _high'],0.041063746578021115,0.24676850763807284
+['energy _high'],['air_density _very high'],0.040281579976535004,0.2415005861664713
+['air_density _very high'],['energy _high'],0.040281579976535004,0.24178403755868547
+['energy _very high'],['air_density _extremely high'],0.04653891278842393,0.2793427230046948
+['air_density _extremely high'],['energy _very high'],0.04653891278842393,0.2793427230046948
+['energy _extremely high'],['air_density _extremely high'],0.07802111849824013,0.4683098591549296
+['air_density _extremely high'],['energy _extremely high'],0.07802111849824013,0.4683098591549296
+"['energy _extremely high', 'temp _very low']",['precipitation _low'],0.05396949550254204,0.6699029126213591
+"['energy _extremely high', 'precipitation _low']",['temp _very low'],0.05396949550254204,0.6039387308533917
+"['temp _very low', 'precipitation _low']",['energy _extremely high'],0.05396949550254204,0.4867724867724868
+['energy _extremely high'],"['temp _very low', 'precipitation _low']",0.05396949550254204,0.323943661971831
+['temp _very low'],"['energy _extremely high', 'precipitation _low']",0.05396949550254204,0.32432432432432434
+['precipitation _low'],"['energy _extremely high', 'temp _very low']",0.05396949550254204,0.10793899100508408
+"['energy _extremely high', 'temp _very low']",['snowfall _extremely high'],0.04067266327727806,0.5048543689320388
+"['energy _extremely high', 'snowfall _extremely high']",['temp _very low'],0.04067266327727806,0.7298245614035088
+"['temp _very low', 'snowfall _extremely high']",['energy _extremely high'],0.04067266327727806,0.48826291079812206
+['energy _extremely high'],"['temp _very low', 'snowfall _extremely high']",0.04067266327727806,0.24413145539906103
+['temp _very low'],"['energy _extremely high', 'snowfall _extremely high']",0.04067266327727806,0.2444183313748531
+['snowfall _extremely high'],"['energy _extremely high', 'temp _very low']",0.04067266327727806,0.24413145539906103
+"['energy _extremely high', 'temp _very low']",['snow_depth _extremely high'],0.05181853734845522,0.6432038834951456
+"['energy _extremely high', 'snow_depth _extremely high']",['temp _very low'],0.05181853734845522,0.803030303030303
+"['temp _very low', 'snow_depth _extremely high']",['energy _extremely high'],0.05181853734845522,0.5028462998102466
+['energy _extremely high'],"['temp _very low', 'snow_depth _extremely high']",0.05181853734845522,0.31103286384976525
+['temp _very low'],"['energy _extremely high', 'snow_depth _extremely high']",0.05181853734845522,0.31139835487661577
+['snow_depth _extremely high'],"['energy _extremely high', 'temp _very low']",0.05181853734845522,0.31103286384976525
+"['energy _extremely high', 'temp _very low']",['air_density _extremely high'],0.07117716073523661,0.883495145631068
+"['energy _extremely high', 'air_density _extremely high']",['temp _very low'],0.07117716073523661,0.912280701754386
+"['temp _very low', 'air_density _extremely high']",['energy _extremely high'],0.07117716073523661,0.527536231884058
+['energy _extremely high'],"['temp _very low', 'air_density _extremely high']",0.07117716073523661,0.4272300469483568
+['temp _very low'],"['energy _extremely high', 'air_density _extremely high']",0.07117716073523661,0.427732079905993
+['air_density _extremely high'],"['energy _extremely high', 'temp _very low']",0.07117716073523661,0.4272300469483568
+"['energy _very low', 'temp _high']",['snow_depth _neutral'],0.048494329292139225,0.6578249336870026
+"['temp _high', 'snow_depth _neutral']",['energy _very low'],0.048494329292139225,0.4815533980582524
+"['energy _very low', 'snow_depth _neutral']",['temp _high'],0.048494329292139225,0.7045454545454545
+['temp _high'],"['energy _very low', 'snow_depth _neutral']",0.048494329292139225,0.29073856975381007
+['energy _very low'],"['temp _high', 'snow_depth _neutral']",0.048494329292139225,0.2914218566392479
+['snow_depth _neutral'],"['energy _very low', 'temp _high']",0.048494329292139225,0.29279811097992914
+"['air_density _neutral', 'temp _high']",['energy _very low'],0.04204145482987876,0.45550847457627114
+"['air_density _neutral', 'energy _very low']",['temp _high'],0.04204145482987876,0.6534954407294832
+"['energy _very low', 'temp _high']",['air_density _neutral'],0.04204145482987876,0.5702917771883289
+['air_density _neutral'],"['energy _very low', 'temp _high']",0.04204145482987876,0.2532391048292108
+['temp _high'],"['air_density _neutral', 'energy _very low']",0.04204145482987876,0.2520515826494724
+['energy _very low'],"['air_density _neutral', 'temp _high']",0.04204145482987876,0.2526439482961222
+"['energy _extremely high', 'temp _extremely high']",['air_density _very low'],0.05220962064919828,0.9401408450704225
+"['energy _extremely high', 'air_density _very low']",['temp _extremely high'],0.05220962064919828,0.9535714285714285
+"['air_density _very low', 'temp _extremely high']",['energy _extremely high'],0.05220962064919828,0.42448330683624796
+['energy _extremely high'],"['air_density _very low', 'temp _extremely high']",0.05220962064919828,0.3133802816901408
+['temp _extremely high'],"['energy _extremely high', 'air_density _very low']",0.05220962064919828,0.3133802816901408
+['air_density _very low'],"['energy _extremely high', 'temp _extremely high']",0.05220962064919828,0.3137485311398355
+"['energy _extremely high', 'precipitation _low']",['snow_depth _extremely high'],0.04086820492764959,0.4573304157549234
+"['energy _extremely high', 'snow_depth _extremely high']",['precipitation _low'],0.04086820492764959,0.6333333333333333
+"['precipitation _low', 'snow_depth _extremely high']",['energy _extremely high'],0.04086820492764959,0.4222222222222222
+['energy _extremely high'],"['precipitation _low', 'snow_depth _extremely high']",0.04086820492764959,0.24530516431924881
+['precipitation _low'],"['energy _extremely high', 'snow_depth _extremely high']",0.04086820492764959,0.08173640985529917
+['snow_depth _extremely high'],"['energy _extremely high', 'precipitation _low']",0.04086820492764959,0.24530516431924881
+"['energy _extremely high', 'precipitation _low']",['air_density _extremely high'],0.05475166210402816,0.612691466083151
+"['energy _extremely high', 'air_density _extremely high']",['precipitation _low'],0.05475166210402816,0.7017543859649122
+"['precipitation _low', 'air_density _extremely high']",['energy _extremely high'],0.05475166210402816,0.47058823529411764
+['energy _extremely high'],"['precipitation _low', 'air_density _extremely high']",0.05475166210402816,0.3286384976525822
+['precipitation _low'],"['energy _extremely high', 'air_density _extremely high']",0.05475166210402816,0.10950332420805632
+['air_density _extremely high'],"['energy _extremely high', 'precipitation _low']",0.05475166210402816,0.3286384976525822
+"['energy _extremely high', 'snow_depth _extremely high']",['air_density _extremely high'],0.05025420414548299,0.7787878787878788
+"['energy _extremely high', 'air_density _extremely high']",['snow_depth _extremely high'],0.05025420414548299,0.6441102756892231
+"['snow_depth _extremely high', 'air_density _extremely high']",['energy _extremely high'],0.05025420414548299,0.517102615694165
+['energy _extremely high'],"['snow_depth _extremely high', 'air_density _extremely high']",0.05025420414548299,0.30164319248826293
+['snow_depth _extremely high'],"['energy _extremely high', 'air_density _extremely high']",0.05025420414548299,0.30164319248826293
+['air_density _extremely high'],"['energy _extremely high', 'snow_depth _extremely high']",0.05025420414548299,0.30164319248826293
+"['energy _extremely high', 'temp _very low', 'precipitation _low']",['air_density _extremely high'],0.05025420414548299,0.9311594202898551
+"['energy _extremely high', 'temp _very low', 'air_density _extremely high']",['precipitation _low'],0.05025420414548299,0.706043956043956
+"['energy _extremely high', 'precipitation _low', 'air_density _extremely high']",['temp _very low'],0.05025420414548299,0.9178571428571428
+"['temp _very low', 'precipitation _low', 'air_density _extremely high']",['energy _extremely high'],0.05025420414548299,0.5298969072164949
+"['energy _extremely high', 'temp _very low']","['precipitation _low', 'air_density _extremely high']",0.05025420414548299,0.6237864077669903
+"['energy _extremely high', 'precipitation _low']","['temp _very low', 'air_density _extremely high']",0.05025420414548299,0.562363238512035
+"['energy _extremely high', 'air_density _extremely high']","['temp _very low', 'precipitation _low']",0.05025420414548299,0.6441102756892231
+"['temp _very low', 'precipitation _low']","['energy _extremely high', 'air_density _extremely high']",0.05025420414548299,0.45326278659611996
+"['temp _very low', 'air_density _extremely high']","['energy _extremely high', 'precipitation _low']",0.05025420414548299,0.37246376811594206
+"['precipitation _low', 'air_density _extremely high']","['energy _extremely high', 'temp _very low']",0.05025420414548299,0.4319327731092437
+['energy _extremely high'],"['temp _very low', 'precipitation _low', 'air_density _extremely high']",0.05025420414548299,0.30164319248826293
+['temp _very low'],"['energy _extremely high', 'precipitation _low', 'air_density _extremely high']",0.05025420414548299,0.3019976498237368
+['precipitation _low'],"['energy _extremely high', 'temp _very low', 'air_density _extremely high']",0.05025420414548299,0.10050840829096598
+['air_density _extremely high'],"['energy _extremely high', 'temp _very low', 'precipitation _low']",0.05025420414548299,0.30164319248826293
+"['energy _extremely high', 'temp _very low', 'snow_depth _extremely high']",['air_density _extremely high'],0.04673445443879547,0.9018867924528302
+"['energy _extremely high', 'temp _very low', 'air_density _extremely high']",['snow_depth _extremely high'],0.04673445443879547,0.6565934065934066
+"['energy _extremely high', 'snow_depth _extremely high', 'air_density _extremely high']",['temp _very low'],0.04673445443879547,0.9299610894941635
+"['temp _very low', 'snow_depth _extremely high', 'air_density _extremely high']",['energy _extremely high'],0.04673445443879547,0.5481651376146789
+"['energy _extremely high', 'temp _very low']","['snow_depth _extremely high', 'air_density _extremely high']",0.04673445443879547,0.5800970873786409
+"['energy _extremely high', 'snow_depth _extremely high']","['temp _very low', 'air_density _extremely high']",0.04673445443879547,0.7242424242424242
+"['energy _extremely high', 'air_density _extremely high']","['temp _very low', 'snow_depth _extremely high']",0.04673445443879547,0.5989974937343359
+"['temp _very low', 'snow_depth _extremely high']","['energy _extremely high', 'air_density _extremely high']",0.04673445443879547,0.4535104364326376
+"['temp _very low', 'air_density _extremely high']","['energy _extremely high', 'snow_depth _extremely high']",0.04673445443879547,0.3463768115942029
+"['snow_depth _extremely high', 'air_density _extremely high']","['energy _extremely high', 'temp _very low']",0.04673445443879547,0.4808853118712274
+['energy _extremely high'],"['temp _very low', 'snow_depth _extremely high', 'air_density _extremely high']",0.04673445443879547,0.2805164319248826
+['temp _very low'],"['energy _extremely high', 'snow_depth _extremely high', 'air_density _extremely high']",0.04673445443879547,0.2808460634547591
+['snow_depth _extremely high'],"['energy _extremely high', 'temp _very low', 'air_density _extremely high']",0.04673445443879547,0.2805164319248826
+['air_density _extremely high'],"['energy _extremely high', 'temp _very low', 'snow_depth _extremely high']",0.04673445443879547,0.2805164319248826
